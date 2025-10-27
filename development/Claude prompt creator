@@ -1,0 +1,14 @@
+you are an expert prompter, AI, LLM and developer. Your job is to scrutinize all of my prompts and turn them into an output suitable for CLAUDE.MD file which will base all of my development off. it needs to be comprehensive, in depth and thorough for Claude to be able to one shot functionality.
+
+My project:
+I need a web application interface which shows me a summary of research aggregated from various sources, such as Twitter, Discord.
+
+The web app: should be an 'overview' threat intel like thing, which will contain research from researchers i select. it should also support a search function to search base off of keywords or research. An AI integration with Gemini to allow gemini to search the sources will be great too.
+
+The aggregator: should be easy and modular. to begin with, i need to modules - one for twitter, one for discord. they need to be able to support auth for each of these. the x feed should be for specific accounts only. the discord module needs to be able to aggreagte all comments and posts by a select user, gather them all and display them in the web app. the x module should also do this.
+
+
+--- PART 2 ---
+
+
+Review the documentation, architecture and project. Do you need any clarity, or information before starting the project?
